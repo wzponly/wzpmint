@@ -2,7 +2,6 @@
 <html>
 <head>
     <script>
-
         window.ownerId = "0x79dc58E410c5927e7BDd68054953dFaA8036D48b"
         window.collectionId = "jGwhdXfbVqbK0PuS83z1"
     </script>
